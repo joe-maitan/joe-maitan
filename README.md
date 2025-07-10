@@ -3,7 +3,9 @@
 
 <!-- Below is my current job title and a brief description of who I am -->
 `Software Engineer`  
-Ambitious college graduate with 3+ years of experience with Software Engineering and Development. I am passionate about delivering high-quality results and embracing new challenges with enthusiasm and adaptability.. If you're looking for more insight into my experience, then check out my [LinkedIn](https://linkedin.com/in/joe-maitan).
+Ambitious college graduate with 3+ years of experience with Software Engineering and Development. I am passionate about delivering high-quality results and embracing new challenges with enthusiasm and adaptability. 
+
+If you're looking for more insight into my experience, then check out my [LinkedIn](https://linkedin.com/in/joe-maitan).
 
 <!-- These sections are going to hold different parts of my skillsets -->
 <details>
@@ -18,8 +20,16 @@ Ambitious college graduate with 3+ years of experience with Software Engineering
   </p>
 
   <h3>Cloud Technologies</h3>
+  <p>
+    
+
+  </p>
 
   <h3>Software and Tools</h3>
+  <p>
+    <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt ="Kubernetes"/></a>
+    <a><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt ="Docker"/></a>
+  </p>
 </details>
 
 
