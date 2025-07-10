@@ -1,11 +1,11 @@
 <!-- Name -->
 ## Joe Maitan
 
-<!-- Below is my current job title. -->
+<!-- Below is my current job title and a brief description of who I am -->
 `Software Engineer`  
+Ambitious college graduate with 3+ years of experience with Software Engineering and Development. I am passionate about delivering high-quality results and embracing new challenges with enthusiasm and adaptability.. If you're looking for more insight into my experience, then check out my [LinkedIn](https://linkedin.com/in/joe-maitan).
 
-I am a new graduate deeply interested in learning more about cloud technologies and how I can use them to further my software development. My GitHub contains a collection of projects that are course related or personal projects I developed! I love programming and software in because it has scratched that itch in my brain of problem solving. If you're looking for more insight into my experience, then check out my [LinkedIn][https://linkedin.com/in/joe-maitan].
-
+<!-- These sections are going to hold different parts of my skillsets -->
 <details>
   <summary><h2>Skills</h2></summary>
 
