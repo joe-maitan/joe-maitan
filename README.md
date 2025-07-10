@@ -6,6 +6,6 @@ I am a new graduate deeply interested in learning more about cloud technologies 
 
 ### Languages and Tools
 <a href="https://github.com/joe-maitan/Tic-tac-toe-app">
-  <img src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt ="Python"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt ="Python"/>
 </a>
 
