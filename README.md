@@ -1,6 +1,6 @@
-## Hi there 👋
+## Joe
 
-### <center>Colorado State University Alumni and Software Engineer</center>
+`Software Engineer, Bodybuilder, and Chef`
 
 <!--
 **joe-maitan/joe-maitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
