@@ -1,4 +1,6 @@
-## Joe 7️⃣2️⃣
+<p align="center">
+  <a href="https://github.com/joe-maitan"><b>Joe Maitan</b></a>
+</p>
 
 `Software Engineer`
 
@@ -14,6 +16,10 @@ I am a new graduate deeply interested in learning more about cloud technologies 
     <a href="https://github.com/joe-maitan"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt ="C"/></a>
     <a href="https://github.com/joe-maitan"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt ="C++"/></a>
   </p>
+
+  <h3>Cloud Technologies</h3>
+
+  <h3>Software and Tools</h3>
 </details>
 
 
