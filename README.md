@@ -64,18 +64,3 @@ If you're looking for more insight into my experience, then check out my [Linked
     <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt ="VIM"/></a>
   </p>
 </details>
-
-<details>
-  <summary><h2>Education</h2></summary>
-  <h3>Bachelors of Science, Computer Science - Colorado State University. Graduated 12/2024</h3>
-  <p>Hobbies and Extra curiculars:</p>
-  <ul>CSU Barbell - Powerlifting Club</ul>
-  <ul>CSU ESports - VALORANT</ul>
-</details>
-
-<details>
-  <summary><h2>Experience</h2></summary>
-  <h3>Associate Software Engineer - Lockheed Martin (07/2025 - Present)</h3>
-</details>
-
-
