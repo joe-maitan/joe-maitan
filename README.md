@@ -4,7 +4,7 @@
 <!-- Below is my current job title and a brief description of who I am -->
 `Software Engineer`
 
-Ambitious college graduate with 3+ years of experience with Software Engineering and Agile Development. I am passionate about delivering high-quality results and embracing new challenges with enthusiasm and adaptability. 
+Ambitious college graduate with 3+ years of experience with Software Engineering and Agile Development. I am passionate about delivering high-quality results and embracing new challenges with enthusiasm and adaptability. Currently on working on developing my skills in containerization, kubernetes, and cloud provider technologies! 
 
 If you're looking for more insight into my experience, then check out my [LinkedIn](https://linkedin.com/in/joe-maitan).
 
